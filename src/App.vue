@@ -3,7 +3,7 @@
     <div class="container">
 
       <div class="logo-div">
-        <img alt="Vue logo" src="./assets/determined.png">
+        <a href=""><img alt="Vue logo" src="./assets/determined.png"></a>
       </div>
 
       <div class="menu-div">
@@ -51,7 +51,6 @@ export default {
 
 .container {
   width: 100%;
-  padding: 0 10px;
   height: auto;
 }
 .logo-div {
@@ -63,7 +62,7 @@ export default {
   height: 90px;
 }
 .content-div {
-  margin-top: 5%;
+  margin-top: 1%;
   height: 100%;
 
 }
