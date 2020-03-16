@@ -1,6 +1,5 @@
-# raghad
+# Raghad's Personal Page
 
-## Project setup
 ```
 Under construction
 ```
